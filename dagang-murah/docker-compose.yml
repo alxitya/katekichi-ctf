@@ -3,7 +3,7 @@ version: '2'
 services:
   main:
     build: .
-    container_name: cookies-choco-chips
+    container_name: dagang-murah
     restart: on-failure
     ports:
       - "9500:8080"
